@@ -1,0 +1,1 @@
+python main.py --t_lr 2e-6 --num_epoch 10
